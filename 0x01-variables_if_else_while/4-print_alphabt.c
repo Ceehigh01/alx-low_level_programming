@@ -1,5 +1,5 @@
 #include <stdio.h>
- /**
+/**
  * main - print a-z, without q and e
  * description - uses while statement
  * Return: Always 0 (Success)
